@@ -77,3 +77,23 @@ I'm a passionate **DevOps Engineer** with over **5+ years of experience** in bui
 </p>
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelakurthi-Srinu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nelakurthi-Srinu&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelakurthi-Srinu&theme=dark&hide_border=false&layout=compact" />
+</div>
+
+---
+
+## GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Nelakurthi-Srinu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+Thanks for visiting!
